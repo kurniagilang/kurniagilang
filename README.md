@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurniagilang&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurniagilang=vim%20script)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurniagilang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
